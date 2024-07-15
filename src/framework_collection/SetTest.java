@@ -7,7 +7,7 @@ import java.util.*;
 public class SetTest {
     public static void main(String[] args) {
 
-        String[] colors = {"red", "white", "blue", "green", "gray", "orange", "tan", "white", "cyan", "peach", "gray", "orange"};
+        String[] colors = {"red", "white", "blue", "green", "gray", "orange", "tan", "white", "cyan", "peach", "gray", "orange", "orange"};
         List<String> colorsList = Arrays.asList(colors);
 
         System.out.printf("List: %s%n", colorsList);
